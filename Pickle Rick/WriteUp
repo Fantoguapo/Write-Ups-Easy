@@ -1,1 +1,6 @@
+# TryHackMe - Pickle Rick
 
+Hoy vamos a intentar completar la maquina https://tryhackme.com/room/picklerick en TryHackMe.
+
+Para comenzar lo que haremos es hacaer un escaneo de puertos, para esto utilizaremos la herramienta nmap.
+El comando que utilizaremos es: nmap -T4 -sC -sV -A -p- 10.80.129.39`
